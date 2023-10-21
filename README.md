@@ -1,5 +1,5 @@
 # one-instance
-One Instance only Demo App in Delphi Alexandria Win32
+Simple One Instance only Demo App in Delphi Alexandria Win32
 
 <p align="center"><img src="screenshot.png"></p>
 
