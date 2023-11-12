@@ -1,5 +1,5 @@
 # one-instance
-Simple One Instance only Demo App in Delphi Alexandria Win32
+Simple One Instance only Demo App in Delphi Win32 (working with Alexandria and Athens)
 
 Tested on Windows 10
 
