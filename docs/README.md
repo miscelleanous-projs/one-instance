@@ -1,7 +1,5 @@
 # one-instance
-Simple One Instance only Demo App in Delphi Win32 (tested with Alexandria and Athens)
-
-Tested on Windows 10
+Simple One Instance only Demo App in Delphi Win32 (tested with Alexandria and Athens on Windows 10)
 
 
 <p align="center"><img src="screenshot.png"></p>
